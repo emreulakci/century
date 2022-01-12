@@ -12,4 +12,4 @@
 ## Step 3
 - applikasyon yilin kacinci yüzyila ait oldugunu bulsun
 ## Step 4 
-- sonucu console a yazdirsingit add 
+- sonucu console a yazdirsin
